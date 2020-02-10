@@ -1,5 +1,6 @@
 # NLP-on-Yelp-reviews
-I tried to apply my Pandas, Seaborn and text processing skills to a yelp data set
+I tried to apply my Pandas, Seaborn and text processing skills to classify yelp reviews in 1 or 5 catagory
+
 a) Explored the data with the help of seaborn's count plot, heatmap and box plot
 b) Used corr() from pandas to understand the corelation between attributes such as "funny", "useful", "text length"
 c) Used NLTK for a little text processing such as removing punctuations and removing the stop words.
